@@ -1,10 +1,10 @@
 ﻿explain-git-with-d3
 ===================
 
-Use D3 to visualize simple git branching operations.
+Use D3 para visualizar operações de ramificação git simples.
 
-This simple project is designed to help people understand some basic git concepts visually.
+Este projeto simples foi desenvolvido para ajudar as pessoas a entender alguns conceitos básicos do git visualmente.
 
-This is my first attempt at using both SVG and D3. I hope it is helpful to you.
+Esta é minha primeira tentativa de usar SVG e D3. Eu espero que seja útil a você.
 
-The page can be accessed via: http://onlywei.github.io/explain-git-with-d3/
+A página pode ser acessada via: http://onlywei.github.io/explain-git-with-d3pt/
